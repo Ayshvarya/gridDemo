@@ -1,52 +1,52 @@
 {
   "columns": [
     {
-      "field": "empid",
-      "title": "Emp Id",
+      "field": "name",
+      "title": "Name",
       "sortable": false
     },
     {
-      "field": "empname",
-      "title": "Employee Name",
+      "field": "rollno",
+      "title": "Roll No",
       "sortable": true
     },
     {
-      "field": "age",
-      "title": "Age",
+      "field": "maths",
+      "title": "Maths",
       "sortable": true
     },
     {
-      "field": "gender",
-      "title": "Gender",
+      "field": "science",
+      "title": "Science",
       "sortable": false
     },
     {
-      "field": "pincode",
-      "title": "Pincode",
+      "field": "social",
+      "title": "Social",
       "sortable": false
     }
   ],
   "data": [
     {
-      "empid": "Emp1",
-      "empname": "Rajesh",
-      "age": "30",
-      "gender": "Male",
-      "pincode": "625300"
+      "name": "Sonu",
+      "rollno": "1",
+      "maths": "90",
+      "science": "78",
+      "social": "89"
     },
     {
-      "empid": "Emp2",
-      "empname": "Aditya",
-      "age": "25",
-      "gender": "Female",
-      "pincode": "623112"
+      "name": "Willams",
+      "rollno": "2",
+      "maths": "55",
+      "science": "78",
+      "social": "86"
     },
     {
-      "empid": "Emp3",
-      "empname": "Kavin",
-      "age": "28",
-      "gender": "Male",
-      "pincode": "388333"
+      "name": "Ankit",
+      "rollno": "3",
+      "maths": "76",
+      "science": "98",
+      "social": "54"
     }
   ]
 }
